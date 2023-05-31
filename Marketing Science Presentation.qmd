@@ -1,0 +1,54 @@
+---
+title: "Impact of School Shootings on Community Nutrition and Home Values"
+subtitle: "<br> <br>  **ISMS Marketing Science Conference 2023**"
+author: "<br>**Muzeeb Shaik**<br>Visiting Assistant Professor <br> Kelley School of Buisness, Indiana University <br><br> Joint work with <br> Siri Paruchuri, Mike Palazzolo, Adithya Pattabhiramaiah & Hari Sridhar "
+
+format: 
+  revealjs:
+    self-contained: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "images/kelley-marketing-revised-removebg-preview.png"
+#    footer: "[thomasmock.quarto.pub/reports-presentations](https://thomasmock.quarto.pub/reports-presentations/)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#FFFFFF"
+editor: source
+---
+
+## Research Question
+
+## Background & Motivation
+
+# Impact of Fatal School Shootings on Consumption of Food and Vices
+
+## Data
+
+- Center for Homeland Defense and Security’s (CHDS) K-12 shooting data base
+
+- Nielsen Homescan Panel data
+- Data on nutrition labels from Label Insight. 
+- 69 fatal school shootings between 20012 - 2019
+
+## Distribution of Fatal School Shootings Over Time
+
+## Geographic Distribution of Fatal School Shootings in US
+
+## Empirical Strategy and Econometric Model
+
+## Description of Households in Treatment and Control Groups
+
+![](images/T1.png)
+
+# Impact of Fatal School Shootings on Home Value
+
+## Data
+
+- Center for Homeland Defense and Security’s (CHDS) K-12 shooting data base
+
+- Zillow's Home Value Index
+
