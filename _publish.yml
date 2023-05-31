@@ -1,0 +1,6 @@
+- source: Marketing Science Presentation.qmd
+  quarto-pub:
+    - id: fcc301ac-a003-45b0-a285-739ab753016c
+      url: 'https://quartopub.com/sites/muzeebshaik/impact-of-school-shootings-on-community-nutrition-and-home-values'
+    - id: 70adb0f4-324e-4d20-b6c3-e0bb4702a0c5
+      url: 'https://quartopub.com/sites/muzeebshaik/impact-of-school-shootings-on-community-nutrition-and-home-values'
